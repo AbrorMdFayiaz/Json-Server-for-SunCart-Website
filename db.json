@@ -242,15 +242,15 @@
     },
     {
       "id": 21,
-      "name": "Performance Rashguard Swim Shirt",
-      "brand": "BreezeWear",
-      "price": 27,
-      "rating": 4.7,
-      "stock": 14,
-      "description": "UPF 50+ short-sleeve athletic rashguard shirt designed for sun defense during surfing and swimming.",
-      "image": "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?auto=format&fit=crop&w=600&q=80",
-      "alt": "Athletic short-sleeve UV-blocking performance swim shirt",
-      "category": "Apparel"
+      "name": "Portable Solar Power Bank",
+      "brand": "SolarWave",
+      "price": 39,
+      "rating": 4.8,
+      "stock": 12,
+      "description": "Rugged solar-powered portable charger featuring a high-capacity battery, dual USB ports, and a built-in LED flashlight for convenient outdoor charging.",
+      "image": "https://keutek.com/cdn/shop/products/portable-solar-power-bank-26800mah-26w-fast-charger-185784.jpg?v=1620252121&width=1800",
+      "alt": "Black portable solar power bank with integrated solar charging panels",
+      "category": "Beach Essentials"
     },
     {
       "id": 22,
@@ -266,15 +266,15 @@
     },
     {
       "id": 23,
-      "name": "Mineral SPF 50 Face Sunscreen Stick",
-      "brand": "DermaSun",
-      "price": 16,
-      "rating": 4.8,
+      "name": "Insulated Stainless Steel Water Bottle",
+      "brand": "AquaCarry",
+      "price": 18,
+      "rating": 4.7,
       "stock": 25,
-      "description": "Pocket-sized non-comedogenic mineral sunblock stick for quick, hands-free facial reapplication on the go.",
-      "image": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?auto=format&fit=crop&w=600&q=80",
-      "alt": "Compact broad spectrum mineral SPF 50 sunscreen stick container",
-      "category": "Skincare"
+      "description": "Reusable stainless steel insulated water bottle with a leak-resistant bamboo lid, perfect for keeping drinks fresh during summer outings and beach trips.",
+      "image": "https://de.bambaw.com/cdn/shop/products/PRODUCT_VISUALS_PRODUCT_BOTTLES_SW_500.jpg?v=1739468046&width=2000",
+      "alt": "Silver stainless steel reusable water bottle with bamboo lid on a clean background",
+      "category": "Beach Essentials"
     },
     {
       "id": 24,
@@ -290,14 +290,14 @@
     },
     {
       "id": 25,
-      "name": "Quick-Dry Linen Button-Down Shirt",
+      "name": "Crochet Beach Cover-Up Dress",
       "brand": "AlohaVibe",
-      "price": 32,
-      "rating": 4.6,
-      "stock": 13,
-      "description": "Breathable short-sleeve linen blend button-down shirt ideal for staying cool in humid weather.",
-      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=600&q=80",
-      "alt": "Lightweight white linen button-down short-sleeve shirt",
+      "price": 34,
+      "rating": 4.8,
+      "stock": 12,
+      "description": "Lightweight, breathable crochet cover-up dress with a relaxed fit, perfect for layering over swimwear during beach vacations.",
+      "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=600&q=80",
+      "alt": "Stylish lightweight summer beach cover-up outfit",
       "category": "Apparel"
     },
     {
