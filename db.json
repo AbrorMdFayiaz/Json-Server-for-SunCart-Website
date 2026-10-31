@@ -290,15 +290,15 @@
     },
     {
       "id": 25,
-      "name": "Crochet Beach Cover-Up Dress",
-      "brand": "AlohaVibe",
-      "price": 34,
+      "name": "Act+Acre Restorative Hair Mask",
+      "brand": "Act+Acre",
+      "price": 32,
       "rating": 4.8,
-      "stock": 12,
-      "description": "Lightweight, breathable crochet cover-up dress with a relaxed fit, perfect for layering over swimwear during beach vacations.",
-      "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?auto=format&fit=crop&w=600&q=80",
-      "alt": "Stylish lightweight summer beach cover-up outfit",
-      "category": "Apparel"
+      "stock": 14,
+      "description": "Restorative hair mask designed to nourish dry hair, improve softness, and leave strands feeling smoother and more manageable.",
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=600&q=80",
+      "alt": "Act+Acre Restorative Hair Mask tube and product box displayed on a clean background",
+      "category": "Haircare"
     },
     {
       "id": 26,
