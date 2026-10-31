@@ -266,15 +266,15 @@
     },
     {
       "id": 23,
-      "name": "Insulated Stainless Steel Water Bottle",
-      "brand": "AquaCarry",
-      "price": 18,
+      "name": "Aloe Vera After-Sun Cooling Gel",
+      "brand": "DermaSun",
+      "price": 13,
       "rating": 4.7,
-      "stock": 25,
-      "description": "Reusable stainless steel insulated water bottle with a leak-resistant bamboo lid, perfect for keeping drinks fresh during summer outings and beach trips.",
-      "image": "https://de.bambaw.com/cdn/shop/products/PRODUCT_VISUALS_PRODUCT_BOTTLES_SW_500.jpg?v=1739468046&width=2000",
-      "alt": "Silver stainless steel reusable water bottle with bamboo lid on a clean background",
-      "category": "Beach Essentials"
+      "stock": 32,
+      "description": "Refreshing aloe vera cooling gel that moisturizes and soothes dry skin after sun exposure, leaving it feeling soft and hydrated.",
+      "image": "https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=600&q=80",
+      "alt": "Skincare product bottle on a clean background",
+      "category": "Skincare"
     },
     {
       "id": 24,
